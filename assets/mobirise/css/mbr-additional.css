@@ -2169,6 +2169,9 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #192ac9;
 }
+.cid-scbiudYLaF H3 {
+  text-align: center;
+}
 .cid-s60aghDL3s {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2307,5 +2310,5 @@ section.lazy-placeholder:after {
   width: 100%;
 }
 .cid-s7q0YIc51L .media-container-row .mbr-text {
-  text-align: right;
+  text-align: left;
 }
